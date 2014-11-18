@@ -73,8 +73,7 @@ OPERATORS + MOTIONS = AWESOME
 
 - operators and motions are orthogonal
 - you can combine them in every possible way
-- once you learn a new operator/motion, you can combine it with the ones you
-  already know immediately
+- new operators/motions can be combined with the others immediately
 
 Some examples:
 
@@ -102,7 +101,7 @@ TEXT OBJECTS (i/a)
 
 OTHER TRICKS
 
-- .
+- repeat your last modification with .
 - insert at the beginning/end of line with I, A
 - start inserting on a new line below/above: o, O
 - change/delete till the end of line with C, D

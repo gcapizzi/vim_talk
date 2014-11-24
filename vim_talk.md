@@ -63,6 +63,7 @@ MORE MOTIONS!
 - start/end of line: ^, $, 0
 - matching delimiter: %
 - search: /, ?, n, N, *, #
+- motions accept counts (e.g. 3j to go down 3 lines)
 
 (See `:help Q_lr`)
 
@@ -128,7 +129,7 @@ EX COMMANDS
 
 # RESOURCES
 
-- `vimtutor`
+- `vimtutor` and :help
 - [vimcasts.org](http://vimcasts.org)
 - [github.com/tpope](http://github.com/tpope)
 - [github.com/gcapizzi/vimpeppers](http://github.com/gcapizzi/vimpeppers)
